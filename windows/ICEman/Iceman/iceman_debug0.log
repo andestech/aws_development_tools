@@ -1,0 +1,7 @@
+iceman_debug0.log
+User : 99 140 command.c:546 command_print(): debug_level: 2
+User : 107 140 command.c:546 command_print(): adapter speed: 10000 kHz
+User : 109 141 command.c:546 command_print(): adapter_nsrst_delay: 500
+User : 127 176 command.c:546 command_print(): srst_only separate srst_gates_jtag srst_open_drain connect_deassert_srst
+Info : 131 231 transport.c:286 jim_transport_select(): auto-selecting first available session transport "jtag". To override use 'transport select <transport>'.
+Debug: 250 233 nds32_v5_cmd.c:1317 ndsv5_target_create(): ndsv5_target_create
